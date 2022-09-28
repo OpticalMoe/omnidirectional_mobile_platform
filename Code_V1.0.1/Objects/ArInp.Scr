@@ -1,0 +1,14 @@
+--create ".\Objects\Tracing fire.lib"
+.\objects\delay.o
+.\objects\main.o
+.\objects\printf.o
+.\objects\led.o
+.\objects\sys.o
+.\objects\s_curve.o
+.\objects\step.o
+.\objects\usart3.o
+.\objects\usart.o
+.\objects\angle.o
+.\objects\photoelectric.o
+.\objects\iwdg.o
+.\objects\timer.o
